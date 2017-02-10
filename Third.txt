@@ -11,7 +11,7 @@ Because it is hard to decide wether it is good to push.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Branches Are a tags. Clones may come from fork. Branches and clones are local and forks are remote.Although forks and clones seems alike, I would rather use forks instead of clones when codes was shared on Github.   
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
